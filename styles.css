@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-color: #393e46;
+  color:#fff;
+  font-family: "Roberto",sans-serif;
+}
+
+h2{
+  margin:50px;
+}
+
+.row{
+margin:10px;
+}
+
+.mycard{
+  width:40%;
+  margin: 10px auto;
+  padding:20px;
+
+}
+.cards{
+  border:1px solid black;
+  border-radius: 25px;
+}
+::placeholder{
+  text-align:center;
+}
+input{
+  text-align:center;
+}
+.card1{
+   background-color:#f9ed69;
+   color:black;
+}
+
+.card2{
+  background-color:#f08a5d;
+  color:black;
+}
+
+.card3{
+  background-color:#b83b5e;
+  color:black;
+}
+.asaf{
+  position:fixed;
+  bottom:5px;
+  left:41%;
+}
+.all-of-cards{
+  visibility: hidden;
+}
